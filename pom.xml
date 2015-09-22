@@ -9,7 +9,7 @@
 
     <groupId>org.webjars</groupId>
     <artifactId>stackframe</artifactId>
-    <version>0.3.1</version>
+    <version>0.3.2-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <name>stackframe</name>
@@ -50,7 +50,7 @@
         <url>http://github.com/webjars/stackframe</url>
         <connection>scm:git:https://github.com/webjars/stackframe.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/stackframe.git</developerConnection>
-        <tag>stackframe-0.3.1</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <build>
